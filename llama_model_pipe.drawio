@@ -63,11 +63,6 @@
             <mxPoint y="5" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MEJdEYd6LuWDyWkc2QXS-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="MEJdEYd6LuWDyWkc2QXS-22">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="300" y="340.0000000000001" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="MEJdEYd6LuWDyWkc2QXS-22" value="top 30 Aspect" style="rhombus;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="187.5" y="310" width="99" height="60" as="geometry" />
         </mxCell>
